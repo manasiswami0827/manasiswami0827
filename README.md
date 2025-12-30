@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi! I’m Mansi Swami👋 
 
-<!--
-**manasiswami0827/manasiswami0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student (Batch 2026) who enjoys building  
+AI-powered and full stack web applications by learning through real projects.
 
-Here are some ideas to get you started:
+📊Currently focused on: PERN Stack & SaaS-based applications  
+🎯 Goal: Become an industry-ready Full Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Technologies I Work With
+- Frontend: React.js, Next.js, JavaScript, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Databases: PostgreSQL, MySQL  
+- Version Control: Git & GitHub  
+
+ 🎉 What I’m Building
+- AI SaaS Application with authentication & premium features  
+- Full stack projects using REST APIs and databases  
+- Responsive and user-focused web applications  
+
+ 
